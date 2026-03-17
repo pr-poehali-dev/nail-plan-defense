@@ -698,7 +698,7 @@ function Slide0() {
           <span style={{ color: "var(--lilac)", fontStyle: "italic", fontSize: "0.6em" }}>Studio</span>
         </div>
         <p style={{ fontSize: 15, color: "var(--muted)", lineHeight: 1.7, maxWidth: 440 }}>
-          Современная маникюрная студия премиального сегмента с уникальным подходом к сервису и дизайну ногтей
+          Современная маникюрная студия с уникальным подходом к сервису и дизайну ногтей
         </p>
         <div className="s0-meta">
           <div className="s0-meta-item">
