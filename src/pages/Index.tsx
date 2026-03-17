@@ -715,7 +715,7 @@ function Slide0() {
           </div>
           <div className="s0-meta-item">
             <div className="s0-meta-dot" />
-            <span>Окупаемость: <strong>8–12 месяцев</strong></span>
+            <span>Окупаемость: <strong>6 месяцев</strong></span>
           </div>
         </div>
       </div>
@@ -993,7 +993,7 @@ function Slide5() {
           Вместе создадим пространство, где каждая клиентка чувствует себя особенной.
         </p>
         <div style={{ marginTop: 28, padding: "14px 20px", background: "rgba(255,61,138,0.08)", borderRadius: 10, border: "1px solid rgba(255,61,138,0.2)", fontSize: 13, color: "var(--pink)", fontWeight: 600, letterSpacing: 0.5 }}>
-          ✦ Окупаемость: 8–12 месяцев ✦ ROI: 35%+
+          ✦ Окупаемость: 6 месяцев ✦ ROI: 35%+
         </div>
       </div>
     </div>
