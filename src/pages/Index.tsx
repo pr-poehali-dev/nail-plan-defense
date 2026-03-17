@@ -913,25 +913,6 @@ function Slide4() {
           </div>
         </div>
         <div>
-          <div className="chart-title">Инвестиционный план</div>
-          <div className="invest-cards">
-            {[
-              { name: "Аренда + ремонт", sum: "320 000 ₽", cls: "c-pink" },
-              { name: "Оборудование", sum: "280 000 ₽", cls: "c-gold" },
-              { name: "Расходные материалы", sum: "80 000 ₽", cls: "c-lilac" },
-              { name: "Маркетинг (старт)", sum: "100 000 ₽", cls: "c-pink" },
-              { name: "Резервный фонд", sum: "70 000 ₽", cls: "c-gold" },
-            ].map((i) => (
-              <div className="invest-card" key={i.name}>
-                <div className="ic-name">{i.name}</div>
-                <div className={`ic-sum ${i.cls}`}>{i.sum}</div>
-              </div>
-            ))}
-          </div>
-          <div className="total-invest">
-            <div className="ti-label">ИТОГО инвестиций</div>
-            <div className="ti-val">850 000 ₽</div>
-          </div>
           <div style={{
             marginTop: 12,
             padding: "18px 20px",
