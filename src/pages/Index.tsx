@@ -703,16 +703,13 @@ function Slide0() {
         <div className="s0-meta">
           <div className="s0-meta-item">
             <div className="s0-meta-dot" />
-            <span>Проект: <strong>NAILS PRO Studio</strong></span>
+            <span>Проект: <strong>Маникюр</strong></span>
           </div>
           <div className="s0-meta-item">
             <div className="s0-meta-dot" />
             <span>Формат: <strong>Маникюрная студия</strong></span>
           </div>
-          <div className="s0-meta-item">
-            <div className="s0-meta-dot" />
-            <span>Инвестиции: <strong>от 850 000 ₽</strong></span>
-          </div>
+
           <div className="s0-meta-item">
             <div className="s0-meta-dot" />
             <span>Окупаемость: <strong>6 месяцев</strong></span>
