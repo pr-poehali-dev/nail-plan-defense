@@ -932,6 +932,38 @@ function Slide4() {
             <div className="ti-label">ИТОГО инвестиций</div>
             <div className="ti-val">850 000 ₽</div>
           </div>
+          <div style={{
+            marginTop: 12,
+            padding: "18px 20px",
+            background: "linear-gradient(135deg, rgba(34,197,94,0.12), rgba(245,200,66,0.08))",
+            border: "1px solid rgba(34,197,94,0.35)",
+            borderRadius: 12,
+          }}>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 10 }}>
+              <div style={{ fontSize: 13, fontWeight: 700, color: "#4ade80" }}>
+                ✅ Единовременная финансовая помощь
+              </div>
+              <div style={{ fontSize: 22, fontWeight: 900, color: "#4ade80" }}>120 000 ₽</div>
+            </div>
+            <div style={{ fontSize: 12, color: "var(--muted)", lineHeight: 1.6, marginBottom: 10 }}>
+              Проект полностью реализуется в рамках выделенной суммы — все статьи расходов покрываются без превышения бюджета.
+            </div>
+            <div style={{
+              display: "flex",
+              alignItems: "center",
+              gap: 8,
+              padding: "10px 14px",
+              background: "rgba(34,197,94,0.08)",
+              borderRadius: 8,
+              border: "1px solid rgba(34,197,94,0.2)",
+              fontSize: 12,
+              fontWeight: 700,
+              color: "#4ade80",
+            }}>
+              <Icon name="CheckCircle" size={16} />
+              Бюджет соблюдён · Остаток: 0 ₽ · Превышения нет
+            </div>
+          </div>
         </div>
       </div>
     </div>
